@@ -1,14 +1,12 @@
 let x = 1
 let y = '1'
 
-if ( x == y)
-    console.log("verdade")
+let comp1 = x == y
+let comp2 = x === y
 
-if (x === y )
-    console.log("false")
+console.log(comp1, "comp1")
+console.log(comp2, "comp2")
 
-if (x >= 10)
-    console.log("verdade")
-else
-    console.log("false")
+let comp3 = x >= 10
+console.log(comp3, "comp3")
 
