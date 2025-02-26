@@ -1,0 +1,8 @@
+let num = 1
+let soma = 0
+while (num <= 100000000000)
+{
+    num += soma;
+    soma++
+}
+console.log(num)
