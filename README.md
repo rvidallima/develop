@@ -1,2 +1,2 @@
 Aulas de Javascript REACT
-SENAI - SP - Franco-Suíço
+SENAI - SP - Suíço-Brasileira
